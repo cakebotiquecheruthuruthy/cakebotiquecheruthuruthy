@@ -260,7 +260,7 @@ function submitForm() {
   sentMessage.textContent = sucessMessage;
   sentMessage.style.display = 'block';
 
-  var phonenumber = "919544710230";
+  var phonenumber = "919846955099";
 
   var url = "https://wa.me/" + phonenumber + "?text="
   +"*Name :* "+name+"%0a"
